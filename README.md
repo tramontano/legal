@@ -1,6 +1,6 @@
 # Privacy Policies
 
-This repository contains the unified and publicly accessible privacy policies that apply to all applications developed and maintained by [Your Name or Organization].
+This repository contains the unified and publicly accessible privacy policies that apply to all applications developed and maintained by Phillipe Tramontano.
 
 ## Available Policies
 
